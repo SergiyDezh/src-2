@@ -49,4 +49,7 @@ function onEscKeyPress(e) {
         return;
   instance.close();
 }
+
 console.log(galleryItems);
+
+
